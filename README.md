@@ -15,4 +15,6 @@ collaborators:
 
 A data Analysis project made using matplotlip, seaborn, pandas and numpy 
 
+tools : google colab, vs code, github  and power point
+
 the dataset : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
