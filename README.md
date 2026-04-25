@@ -13,3 +13,6 @@ collaborators:
 5- Ali Ahmed Ali
 
 
+A data Analysis project made using matplotlip, seaborn, pandas and numpy 
+
+the dataset : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
